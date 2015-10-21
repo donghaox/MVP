@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+img {
+	width:500px;
+}
+
+.background {
+	background-color:#C8B6D3;
+}
+
+.mainpage {
+	margin-top:10px;
+	margin-left:50px;
+	margin-right:50px;
+	background-color:#920F11;
+}
+
+a {
+	text-decoration:none;
+}
+
+.menubg {
+	margin-left:50px;
+	margin-right:50px;
+	background-color:#ED989A;
+}
+
+.maininfo {
+	margin-top:1px;
+	margin-left:50px;
+	margin-right:50px;
+	margin-bottom:10px;
+	background-color:#FFFFFF;
+}
+
+.bottominfo {
+	margin-top:350px;
+	margin-left:50px;
+	margin-right:50px;
+	
+	background-color:#E21AD7;
+}
